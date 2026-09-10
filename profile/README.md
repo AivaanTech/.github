@@ -1,8 +1,8 @@
-# AivaanTech — AI Courses, Certification & Consulting
+# AivaanTech — Online AI Courses, Certification & Consulting
 
-We help students, professionals, and businesses learn and use AI tools the easy way — no coding needed. We offer AI courses, AI certification, AI consulting, and AI business solutions, built around real, hands-on skills, not just theory.
+We help students, professionals, and businesses learn and use AI tools the easy way — no coding needed. We offer online AI courses, AI certification, AI consulting, and AI business solutions, built around real, hands-on skills, not just theory.
 
-## Our Main Course
+## Our Main Online Course
 
 **AI Tool Mastery — 30-Day Certification**
 
@@ -22,9 +22,9 @@ Learn ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, and other leading 
 - [Blog](https://www.aivaantech.com/blog) — AI tools, AI courses, and prompt engineering guides
 - [Contact us](https://www.aivaantech.com/contact)
 
-## 🎓 Learning Platform
+## 🎓 Online Learning Platform
 
-- [AivaanTech AI Academy](https://learn.aivaantech.com/) — our course platform
+- [AivaanTech AI Academy](https://learn.aivaantech.com/) — our online course platform
 - [All courses](https://learn.aivaantech.com/courses)
 - [AI Tool Mastery — 30-Day Certification](https://learn.aivaantech.com/courses/ai-tool-mastery-l016fi) — enroll here
 
@@ -43,6 +43,6 @@ Learn ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, and other leading 
 
 ---
 
-AivaanTech — AI courses, AI certification, AI consulting, and AI tools training for students, professionals, and businesses across India and beyond. No coding required.
+AivaanTech — online AI courses, AI certification, AI consulting, and AI tools training for students, professionals, and businesses across India and beyond. No coding required.
 
 🔗 [www.aivaantech.com](https://www.aivaantech.com) · [learn.aivaantech.com](https://learn.aivaantech.com/)
