@@ -21,11 +21,18 @@ Explore our new hands-on [GPT-6 Astra course](https://learn.aivaantech.com/cours
 - [Homepage](https://www.aivaantech.com/)
 - [AI Mastery Education](https://www.aivaantech.com/ai-mastery-education) — our main course
 - [AI Certification in India](https://www.aivaantech.com/ai-certification-india)
+- [GPT-6 Astra Course](https://www.aivaantech.com/gpt-6-astra-course) — learn the latest AI model
+- [Claude AI Course](https://www.aivaantech.com/claude-ai-course)
+- [Intelligent Document Processing](https://www.aivaantech.com/business-solutions/intelligent-document-processing)
+- [FAQ](https://www.aivaantech.com/faq)
 - [Strategic Consulting](https://www.aivaantech.com/strategic-consulting)
 - [Business Solutions](https://www.aivaantech.com/business-solutions)
 - [Data & AI Enablement](https://www.aivaantech.com/data-ai-enablement)
 - [About AivaanTech](https://www.aivaantech.com/about)
 - [Blog](https://www.aivaantech.com/blog) — AI tools, AI courses, and prompt engineering guides
+- [Best AI Courses Online in India (2026)](https://www.aivaantech.com/blog/best-ai-courses-online-india-2026)
+- [AI Certification Course guide](https://www.aivaantech.com/blog/ai-certification-course)
+- [5 Things You Can Do With GPT-6 Astra](https://www.aivaantech.com/blog/5-things-you-can-do-with-gpt-6-astra)
 - [Contact us](https://www.aivaantech.com/contact)
 
 ## 🎓 Online Learning Platform
@@ -33,6 +40,8 @@ Explore our new hands-on [GPT-6 Astra course](https://learn.aivaantech.com/cours
 - [AivaanTech AI Academy](https://learn.aivaantech.com/) — our online course platform
 - [All courses](https://learn.aivaantech.com/courses)
 - [AI Tool Mastery — 30-Day Certification](https://learn.aivaantech.com/courses/ai-tool-mastery-l016fi) — enroll here
+- [GPT-6 Astra Course](https://learn.aivaantech.com/courses/gpt-6-astra-mastery-ovu8aa) — enroll here
+- [Verify a certificate](https://learn.aivaantech.com/verify)
 
 ## 👥 Who It's For
 
