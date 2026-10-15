@@ -10,6 +10,12 @@ Learn ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, and other leading 
 
 👉 [Enroll in AI Tool Mastery](https://learn.aivaantech.com/courses/ai-tool-mastery-l016fi)
 
+## Latest Course: GPT-6 Astra
+
+Explore our new hands-on [GPT-6 Astra course](https://learn.aivaantech.com/courses/gpt-6-astra-mastery-ovu8aa) and learn how to use the latest AI model in real projects. Also see the full [AI Tool Mastery course](https://learn.aivaantech.com/courses/ai-tool-mastery-l016fi) for 30-day certification training.
+
+👉 [GPT-6 Astra Course](https://learn.aivaantech.com/courses/gpt-6-astra-mastery-ovu8aa)
+
 ## 🌐 Main Website
 
 - [Homepage](https://www.aivaantech.com/)
